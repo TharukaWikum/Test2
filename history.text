@@ -1,0 +1,326 @@
+    1  sudo apt-get update
+    2  sudo apt install openjdk-11-jdk
+    3  java --version
+    4  sudo add-apt-repository ppa:maarten-fonville/android-studio
+    5  sudo apt update
+    6  sudo apt install android-studio -y
+    7  sudo snap install --classic eclipse
+    8  sudo apt update
+    9  sudo apt install default-jre
+   10  eclipse
+   11  curl --version
+   12  curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash - &&\
+   13  sudo apt-get install nodejs
+   14  node -v 
+   15  sudo apt-get install -y npm 
+   16  npm --version
+   17  cordova --version
+   18  sudo npm install -g cordova
+   19  cordova --version
+   20  npm audit fix --force
+   21  sudo npm audit fix --force
+   22  cd../
+   23  cd..\
+   24  cd Downloads
+   25  cd..
+   26  cd ..
+   27  cd Downloads
+   28  ls
+   29  tar -xvzf eclipse-inst-jre-linux64.tar.gz 
+   30  cd eclipse-installer/
+   31  ls
+   32  ./eclipse-inst
+   33  sudo apt update
+   34  sudo apt install default–jdk
+   35  sudo groupadd tomcat
+   36  apt-get install default-jre
+   37  y
+   38  apt-get install default-jdk
+   39  sudo apt-get install default-jre
+   40  sudo pt-get install default-jdk
+   41  sudo apt-get install default-jdk
+   42  sudo apt install default–jdk
+   43  sudo apt get-install default–jdk
+   44  sudo apt-get install default–jdk
+   45  sudo groupadd tomcat
+   46  sudo useradd -s /bin/false -g tomcat -d /opt/tomcat tomcat
+   47  cd /tmp
+   48  cucurl -O https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.63/bin/apache-tomcat-9.0.63.tar.gz
+   49  curl --version
+   50  sudo apt install curl
+   51  cucurl -O https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.63/bin/apache-tomcat-9.0.63.tar.gz
+   52  ../
+   53  cd ../
+   54  sudo apt install curl
+   55  cucurl -O https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.63/bin/apache-tomcat-9.0.63.tar.gz
+   56  cd /tmp
+   57  cucurl -O https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.63/bin/apache-tomcat-9.0.63.tar.gz
+   58  sudo apt get install cucurl -O https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.63/bin/apache-tomcat-9.0.63.tar.gz
+   59  sudo apt-get install cucurl -O https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.63/bin/apache-tomcat-9.0.63.tar.gz
+   60  java --version
+   61  sudo apt-cache search tomcat
+   62  sudo apt install tomcat9 tomcat9-admin
+   63  ufw allow from any to any port 8080 proto tcp
+   64  sudo ufw allow from any to any port 8080 proto tcp
+   65  http://127.0.0.1:8080
+   66  sudo nano /etc/tomcat9/tomcat-users.xml
+   67  sudo systemctl restart tomcat9
+   68  sudo nano /etc/tomcat9/tomcat-users.xml
+   69  sudo systemctl restart tomcat9
+   70  sudo nano /etc/tomcat9/tomcat-users.xml
+   71  sudo systemctl restart tomcat9
+   72  sudo nano /etc/tomcat9/tomcat-users.xml
+   73  udo systemctl restart tomcat9
+   74  sudo systemctl restart tomcat9
+   75  sudo nano /etc/tomcat9/tomcat-users.xml
+   76  sudo systemctl restart tomcat9
+   77  sudo nano /etc/tomcat9/tomcat-users.xml
+   78  sudo systemctl restart tomcat9
+   79  cordova platform add android
+   80  cordova create myapp
+   81  cordova platform add ios
+   82  cordova platform add android
+   83  cordova create myapp
+   84  cordova platform add ios
+   85  cordova platform add android
+   86  cordova platform -ls 
+   87  cordova requirements
+   88  sdk install gradle 7.6
+   89  sudo sdk install gradle 7.6
+   90  sdk install gradle 7.6
+   91  sudo apt update
+   92  wget -c https://services.gradle.org/distributions/gradle-7.4.2-bin.zip -P /tmp
+   93  ls /tmp
+   94  sudo unzip -d /opt/gradle /tmp/gradle-7.4.2-bin.zip
+   95  ls /opt/gradle
+   96  sudo nano /etc/profile.d/gradle.sh
+   97  sudo chmod +x /etc/profile.d/gradle.sh
+   98  source /etc/profile.d/gradle.sh
+   99  gradle --version
+  100  cordova requirements
+  101  sudo systemctl restart tomcat9
+  102  sudo apt-get update
+  103  cordova --version
+  104  cordova create myapp
+  105  cordova platform add android
+  106  cordova build android
+  107  cordova requirements
+  108  whoami
+  109  su sudo
+  110  env
+  111  ${ANDROID_HOME}/tools/bin/sdkmanager --list
+  112  cd ${ANDROID_HOME}
+  113  cd {ANDROID_HOME}
+  114  sudo apt-get install android_sdk
+  115  sudo apt-get install android
+  116  sudo apt search "android sdk"
+  117  ls
+  118  cordova -v
+  119  cordova build TestApp
+  120  cordova create TestApp
+  121  cd TestApp
+  122  ls
+  123  nano config.xml
+  124  nano package.json
+  125  cat cordova
+  126  cat sudo
+  127  nano cordova
+  128  android-sdk-build-tools
+  129  sdkmanager
+  130  sudo sdkmanager
+  131  sudo sdkmanager --list
+  132  sdkmanager "platform-tools" "platforms;android-29"
+  133  sudo sdkmanager "platform-tools" "platforms;android-29"
+  134  sdkmanager "build-tools" "build-tools;29.0.3"
+  135  sudo sdkmanager "build-tools" "build-tools;29.0.3"
+  136  sdkmanager "build-tools" "build-tools;29.0.3"
+  137  sdkmanager --licenses
+  138  sudo sdkmanager --licenses
+  139  sudo sdkmanager "build-tools" "build-tools;29.0.3"
+  140  sudo sdkmanager "build-tools" "build-tools;30.0.3"
+  141  gradle -v
+  142  su root
+  143  sudo apt-get install gradle
+  144  apt autoremove
+  145  sudo apt autoremove
+  146  gradle -v
+  147  sudo apt search gradle
+  148  cd /Users/$(whoami)/Library/Android/sdk; ls;
+  149  cordova platform -ls
+  150  cordova requirements
+  151  cordova build android
+  152  sudo apt update && sudo apt install android-sdk
+  153  sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1
+  154  sdkmanager --list
+  155  export ANDROID_HOME=$HOME/cmdline-tools
+  156  export PATH=$PATH:$ANDROID_HOME/tools/bin
+  157  export PATH=$PATH:$ANDROID_HOME/platform-tools
+  158  source ~/.bashrc
+  159  sdkmanager --list
+  160  sudo apt install sdkmanager
+  161  sdkmanager "platform-tools" "platforms;android-33"
+  162  cordova requirements
+  163  cordova build android
+  164  sudo apt-get update
+  165  androidsdk "platform-tools" "platforms;android-30.0.3"
+  166  sudo snap install androidsdk
+  167  androidsdk "platform-tools" "platforms;android-30.0.3"
+  168  androidsdk "platform-tools" "platforms;android-30"
+  169  sudo apt-get update
+  170  cordova build android
+  171  cordova requirements
+  172  export ANDROID_SDK_ROOT=/usr/lib/android-sdk
+  173  sudo mkdir -p $ANDROID_SDK_ROOT
+  174  sudo apt-get install openjdk-8-jdk
+  175  cd $ANDROID_SDK_ROOT
+  176  sudo wget https://dl.google.com/android/repository/commandlinetools-linux-6858069_latest.zip
+  177  sudo unzip commandlinetools-linux-6858069_latest.zip
+  178  PATH=$PATH:$ANDROID_SDK_ROOT/cmdline-tools/latest/bin:$ANDROID_SDK_ROOT/cmdline-tools/tools/bin
+  179  cd $ANDROID_SDK_ROOT/cmdline-tools/tools/bin
+  180  gradle --version
+  181  cordova requirements
+  182  sudo apt-get install android-sdk
+  183  cordova requirements
+  184  sudo apt-get update
+  185  cordova requirements
+  186  export ANDROID_HOME="/usr/lib/android-sdk/"
+  187  export PATH="${PATH}:${ANDROID_HOME}tools/:${ANDROID_HOME}platform-tools/"
+  188  cordova requirements
+  189  export ANDROID_SDK_HOME ={PATH}:/opt/android/sdk
+  190  sudo apt-get update
+  191  sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+  192  sudo apt-get update
+  193  cordova requirements
+  194  sudo apt-get install libc6-dev-i386 lib32z1 openjdk-8-jdk
+  195  cordova requirements
+  196  tools/bin/sdkmanager --update
+  197  pm install -g cordova --save 
+  198  npm install -g cordova --save 
+  199  sudo apt-get update
+  200  sudo nvidia-settings
+  201  ubuntu-drivers devices
+  202  sudo apt install nvidia-driver-525
+  203  nvidia-smi
+  204  sudo apt-get update
+  205  sudo apt install nvidia-driver-525
+  206  sudo apt install nvidia-driver-455
+  207  ubuntu-drivers devices
+  208  sudo apt install nvidia-driver-525
+  209  nvidia-smi
+  210  sudo apt-get update
+  211  sudo snap install code --classic
+  212  sudo apt-get update
+  213  sudo apt-get upgrade
+  214  git clone https://github.com/LiaLey/DrReview.git
+  215  sudo apt-get update
+  216  git clone https://github.com/LiaLey/DrReview.git
+  217  sudo /opt/lampp/lampp start
+  218  sudo apt install net-tools
+  219  sudo /opt/lampp/lampp start
+  220  code .
+  221  sudo /opt/lampp/lampp stop
+  222  sudo /opt/lampp/lampp start
+  223  who am i
+  224  whoami
+  225  sudo apt-get update
+  226  wget https://www.apachefriends.org/xampp-files/8.1.1/xampp-linux-x64-8.1.1-2-installer.run
+  227  wget https://www.apachefriends.org/xampp-files/8.0.14/xampp-linux-x64-8.0.14-1-installer.run
+  228  cd Downloads/
+  229  ls
+  230  chmod 755 kashipara.com_live-search-zip.zip
+  231  chmod 755 xampp-linux-*-installer.run
+  232  ls -l xampp-linux-x64-8.2.0-0-installer.run
+  233  sudo ./xampp-linux-x64-8.2.0-0-installer.run
+  234  cd ..
+  235  who am i
+  236  whoami
+  237  sudo chown -R tharuka:tharuka /opt/lampp/htdocs
+  238  node -v
+  239  npm install express
+  240  touch notes.json
+  241  chmod 777 notes.json
+  242  node server.js
+  243  npm install express
+  244  node server.js
+  245  npm install
+  246  node server.js
+  247  curl http://localhost:3000/api/notes
+  248  node server.js
+  249  npm install
+  250  node server.js
+  251  npm install
+  252  node server.js
+  253  npm install
+  254  node server.js
+  255  npm install
+  256  node server.js
+  257  npm install
+  258  node server.js
+  259  npm install
+  260  node server.js
+  261  curl http://localhost:3000/api/notes
+  262  curl -X POST -H "Content-Type: application/json" -d '{"text": "Hello, World!"}' http://localhost:3000/api/notes
+  263  curl http://localhost:3000/api/notes
+  264  [200~curl -X POST -H "Content-Type: application/json" -d '{"text": "Hello, World!"}' http://localhost:3000/api/notes
+  265  ~curl -X POST -H "Content-Type: application/json" -d '{"text": "Hello, World2!"}' http://localhost:3000/api/notes
+  266  curl -X POST -H "Content-Type: application/json" -d '{"text": "Hello, World2!"}' http://localhost:3000/api/notes
+  267  curl http://localhost:3000/api/notes
+  268  npm install
+  269  chmod 777 notes.json
+  270  code .
+  271  sudo apt-get update
+  272  code .
+  273  sudo apt-get update
+  274  sudo apt-get install platformio
+  275  sudo apt-get install platformio-core
+  276  sudo apt-get install platformio
+  277  python
+  278  python3
+  279  clear
+  280  code
+  281  sudo code
+  282  sudo apt-get install python3-venv
+  283  code
+  284  sudo apt-get install 99-platformio-udev.rule
+  285  sudo apt-get install 99-platformio-udev
+  286  sudo apt-get install platformio-udev.rule
+  287  platformio-udev.rule
+  288  sudo code
+  289  sudo code --no-sandbox
+  290  sudo code --no-sandbox  --user-data-dir /home/tharuka/Desktop/code/
+  291  code
+  292  sudo chmod 666 /dev/ttyACM0
+  293  java -v
+  294  java --v
+  295  java --V
+  296  code .
+  297  sudo apt-get update
+  298  sudo apt-get upgrade
+  299  git init
+  300  git add README.md
+  301  echo "# test" >> README.md
+  302  git init
+  303  git commit -m "first commit"
+  304  git config --global user.email "tharuka99wikum@mail.com"
+  305  git config --global user.name "TharukaWikum"
+  306  git commit -m "first commit"
+  307  git add README.md
+  308  git commit -m "first commit"
+  309  git branch -M main
+  310  git remote add origin https://github.com/TharukaWikum/test.git
+  311  git push -u origin main
+  312  git config -l
+  313  git remote set-url origin https://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@github.com/TharukaWikum/test.git
+  314  git push -u origin main
+  315  gedit test.text
+  316  git clone https://github.com/TharukaWikum/Test2.git
+  317  git pull
+  318  ls
+  319  cd Test2/
+  320  ls
+  321  git pull
+  322  git checkout Tharuka
+  323  git branch
+  324  git checkout bhanuka
+  325  git branch
+  326  history > history.text
